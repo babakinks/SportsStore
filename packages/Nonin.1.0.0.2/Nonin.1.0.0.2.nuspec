@@ -1,0 +1,17 @@
+<?xml version="1.0"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2011/08/nuspec.xsd">
+  <metadata>
+    <id>Nonin</id>
+    <version>1.0.0.2</version>
+    <title>Nonin</title>
+    <authors>Sigmund L. Lahn</authors>
+    <owners>Sigmund L. Lahn</owners>
+    <licenseUrl>https://raw.githubusercontent.com/slahn/nonin/master/LICENSE</licenseUrl>
+    <projectUrl>https://github.com/slahn/nonin</projectUrl>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>Parsing and validation of norwegian identity numbers (fødselsnummer/personnummer)</description>
+    <releaseNotes>Initial Nuget release</releaseNotes>
+    <copyright>Copyright 2015 Sigmund Lahn</copyright>
+    <tags>fødselsnummer nin personnummer</tags>
+  </metadata>
+</package>
